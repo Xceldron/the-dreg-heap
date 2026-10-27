@@ -1,2 +1,2 @@
-the .ips patch for a smw kaizohack made by me
+the .ips patch for a smw kaizohack
 25 rooms, ice physics, tight jumps, cp after each room
